@@ -1,0 +1,19 @@
+#body{
+    background-color: rgb(43, 36, 36);
+    font-size: 1rem;
+    color: rgb(255, 255, 255);
+    
+}
+input{
+    width: 30rem;
+    font-size: 2rem;
+    border-radius:2rem;
+    padding-left: 6rem;
+}
+form{
+    margin: 5rem 5rem;
+}
+
+hr{
+    border: 2rem;
+}

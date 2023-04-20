@@ -1,0 +1,30 @@
+#body{
+    background-color: rgb(43, 36, 36);
+    font-size: 3rem;
+    color: rgb(255, 255, 255);
+    
+}
+
+form{
+    margin: 5rem 5rem;
+}
+
+hr{
+    padding: 1rem;
+    background-color: aqua;
+}
+
+input{
+    width: 30rem;
+    font-size: 2rem;
+    border-radius:2rem;
+    padding-left: 6rem;
+    }
+
+
+#input{
+        width: 10rem;
+        font-size: 2rem;
+        border-radius:2rem;
+        padding-left: 0.7rem;
+        }

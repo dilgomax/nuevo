@@ -1,0 +1,45 @@
+git addcomando git hithub
+
+…o crea un nuevo repositorio en la línea de comando
+echo "# git2" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+
+git config --global user.email 
+git config --global user.name
+
+git branch -M main 
+git remote add origin https://github.com/dilgomax/git2.git
+ git push - u origen principal
+
+
+
+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
+
+
+
+…o inserte un repositorio existente desde la línea de comando
+
+
+
+git remoto agregar origen https://github.com/dilgomax/git2.git
+ git rama -M principal 
+git push -u origen principal
+…o importar código de otro repositorio
+Puede inicializar este repositorio con código de un proyecto de Subversion, Mercurial o TFS.
+
+
+
+git log --graph --decorate --all --oneline    ramas
+
+git push -f -u origin main
+
+
+documentacion github
+https://gist.github.com/dasdo/9ff71c5c0efa037441b6
+
+
+
+
+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
